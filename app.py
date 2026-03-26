@@ -7,3 +7,4 @@ for line in read_entries():
     print(line)
     add_entry("B: first change")
     add_entry("another change")
+    add_entry("B: updating logic")
